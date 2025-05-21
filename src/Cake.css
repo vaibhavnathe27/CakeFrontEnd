@@ -1,0 +1,311 @@
+*{
+    background-color: #000; 
+}
+.iglg img {
+    width: 25px;
+    height: 25px;
+    padding: 3px;
+    margin: 5px;
+    left:60px;
+    margin-top: 50px;
+    position: relative;
+}
+.Cakeshop {
+    position: relative;
+    margin-top: 35px;
+    left:530px;
+}
+.call {
+    position: relative;
+    margin-top: 50px;
+    left:900px;
+    width: 210px;
+    border-radius: 0px;
+
+}
+.bg {
+    width: 1560px;
+    height: 750px;
+    position: absolute;
+}
+.sec1 button {
+    position: relative;
+    top :400px;
+    left: 300px;
+    border-radius: 0;
+    width: 200px;
+    height: 70px;
+}
+.sec2 h1 {
+        
+    font-family: "Poiret One",cursive;
+    position: relative;
+    top:830px;
+    color: #dfdfdf;
+    text-align: center;
+    font-size: 40px;
+    left: 80px;
+
+}
+.sec2 h5{
+    position: relative;
+    color : #E5BF4A;
+    font-size: 24px;
+    font-family: "Poiret One",cursive;
+    text-align:left;
+    left: 100px;
+    top :900px; 
+}
+.sec2 p {
+    position: relative;
+    width:510px;
+    color : #fff;
+    font-size: 16px;
+    font-family: "Jost",sans-serif;
+    text-align:left;
+    left: 100px;
+    top :900px; 
+}
+.sec2 img {
+    position: absolute;
+    left:850px;
+    top: 1230px;
+}
+.Slide img{
+    position: relative;
+    top:1150px;
+    padding: 30px;
+}
+.video{
+    position: absolute;
+    top:2400px;
+    left:150px;
+}
+.Review h1{
+    position: relative;
+    text-align: center;
+    color: #DFDFDF;
+    font-family: "Poiret One", cursive;
+    top:2000px;
+    font-size: 28px;
+}
+.Review CardGroup {
+    position: relative;
+    top: 2000px;
+}
+.cd {
+    position: relative;
+    top: 2050px;
+    color: #DFDFDF;
+}
+.blog h3{
+    color : #fff;
+    font-size: 30px;
+    font-family: "Poiret One",cursive;
+    top:2150px;
+    position: relative;
+    left:80px;
+}
+.blog button {
+    background: #E5BF4A;
+    border: 1px solid #2A2A2A;
+    color: #0A0A0A ;
+    font-size: 15px;
+    position: relative;
+    left:1000px;
+    top :2100px;
+    width: 200px;
+    height: 45px;
+}
+.blog1 img {
+    height: 305px;
+    position: absolute;
+    top :3500px;
+    width:400px;
+}
+.blog1 h3{
+    position: relative;
+    top:2175px;
+    left:20px;
+    height: 305px;
+    color: #E5BF4A;
+    font-size: 24px;
+    font-family: "Poiret One", cursive;
+}
+.blog1 p {
+
+    position: relative;
+    top:1950px;
+    left:20px;
+    color: #fff;
+    font-size: 15px;
+    font-family: "Poiret One", cursive;
+}
+.blog1 button{
+
+    position: relative;
+    top:1980px;
+    left:20px;
+    color: #E5BF4A;
+}
+.insta h1 {
+    position: relative;
+    top :2150px;
+    color: #DFDFDF;
+    font-family: "Poiret One", cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.insta button {
+    position: relative;
+    top:2190px;
+    color: #E5BF4A;
+    left: 570px;
+    border-radius: 0%;
+    width: 150px;
+    height: 50px;
+}
+.insta img {
+    position: relative;
+    top: 2260px;
+    padding: 10px;
+}
+.footer img {
+    position: relative;
+    top :2400px;
+    left :90px;
+}
+.foo{
+    position: relative;
+    top: 2410px;
+    text-decoration: none;
+    padding: 20px;
+    color:#fff;
+    left: 250px;
+}
+.footer p {
+    font-size: 17px;
+    position:relative;
+    top:2450px;
+    width: 600px;
+    color: #DFDFDF;
+}
+.footer button {
+    position: relative;
+    padding: 20px;
+    top :2500px;
+    width:120px;
+    height: 40px;
+    padding: 5px;
+    margin: 4px;
+    border-radius: 0%;
+    transition-duration: 2s;
+}
+.footer button:hover {
+    color: #E5BF4A;
+    transition-delay: 1s;
+    background-color: #000;
+    border-color: #E5BF4A;
+}
+.footer h3 {
+    color: #E5BF4A;
+    font-size: 24px;
+    font-family: "Poiret One", cursive;
+    position: relative;
+    left:130px;
+    top:2475px;
+
+}
+.footer h5 {
+    position: relative;
+        color: #fff;
+        font-size: 16px;
+        font-family: "Jost", sans-serif;
+        left:130px;
+       top:2480px;
+
+}
+ .loc{
+    position: relative;
+    left:130px;
+    top:2700px;
+} 
+ul {
+    list-style-type: none;
+}
+.Contact  h5{
+    color: #DFDFDF;
+    position: relative;
+    left: 100px;
+    top: -25px;
+}
+.Contact p{
+    color: #DFDFDF;
+    position: relative;
+    left: 100px;
+    top:-24px;
+
+}
+.Contact button{
+    background-color: #E5BF4A;
+    color: #000;
+    width: 150px;
+    height: 50px;
+    border-color: #E5BF4A;
+    margin-top: 20px;
+}
+.Confooter img {
+    position: relative;
+    top :200px;
+    left :90px;
+}
+.Confoo{
+    position: relative;
+    top: 200px;
+    text-decoration: none;
+    padding: 20px;
+    color:#fff;
+    left: 250px;
+}
+.Confooter p {
+    font-size: 17px;
+    position:relative;
+    top:250px;
+    width: 600px;
+    color: #DFDFDF;
+}
+.Confooter button {
+    position: relative;
+    padding: 20px;
+    top :250px;
+    width:120px;
+    height: 40px;
+    padding: 5px;
+    margin: 4px;
+    border-radius: 0%;
+    transition-duration: 2s;
+}
+.Confooter button:hover {
+    color: #E5BF4A;
+    transition-delay: 1s;
+    background-color: #000;
+    border-color: #E5BF4A;
+}
+.Confooter h3 {
+    color: #E5BF4A;
+    font-size: 24px;
+    font-family: "Poiret One", cursive;
+    position: relative;
+    left:130px;
+    top:260px;
+
+}
+.Confooter h5 {
+    position: relative;
+        color: #fff;
+        font-size: 16px;
+        font-family: "Jost", sans-serif;
+        left:130px;
+       top:270px;
+
+}
